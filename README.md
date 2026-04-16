@@ -1,2 +1,2 @@
 # iris.streamlit.app
-iris flower classification app using KNN, SVM
+iris flower prediction app using KNN, SVM
